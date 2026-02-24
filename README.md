@@ -1,4 +1,4 @@
-# Centralized-Lab-Equipment
+# ethernet-stm32-lab-automation
 This project implements a distributed laboratory equipment control system using Ethernet as the primary communication backbone. The system consists of a central MacBook computer connected to multiple laboratory peripherals via an Ethernet switch. Two laboratory instruments are controlled: a smart hot plate with precision temperature regulation and a centrifuge with variable speed control.
 
 Ethernet_Test_HotPlate contains code for the hotplate. 
